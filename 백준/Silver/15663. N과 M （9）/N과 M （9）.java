@@ -26,10 +26,10 @@ public class Main {
         }
 
         Arrays.sort(arr);
-        dfs(0, -1);
+        dfs(0);
     }
 
-    static void dfs(int depth, int last) {
+    static void dfs(int depth) {
         if (depth == M) {
             for (int i = 0; i < M; i++) {
                 System.out.print(numbers[i] + " ");
@@ -42,7 +42,7 @@ public class Main {
             if (!visited[i] && (i == 0 || arr[i] != arr[i - 1] || visited[i - 1])) {
                 visited[i] = true;
                 numbers[depth] = arr[i];
-                dfs(depth + 1, arr[i]);
+                dfs(depth + 1);
                 visited[i] = false;
             }
         }
