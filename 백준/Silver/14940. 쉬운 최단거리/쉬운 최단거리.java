@@ -12,7 +12,6 @@ public class Main {
     private final static int[] DY = { -1, 0, 1, 0 }; // row
     private final static int[] DX = { 0, -1, 0, 1 }; // col
     private static boolean[][] isVisited;
-    public static boolean isStartChecked = false;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -22,6 +21,7 @@ public class Main {
         M = Integer.parseInt(st.nextToken());
 
         int startX = 0, startY = 0;
+        boolean isStartChecked = false;
 
         arr = new int[N][M];
         distance = new int[N][M];
@@ -38,43 +38,48 @@ public class Main {
                         break;
                     }
         }
+        
         bfs(startX, startY);
 
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < N; i++) {
-            for (int j = 0; j < M; j++)
-                if (!isVisited[i][j] && arr[i][j] == 1)
-                    sb.append(-1 + " ");
-                else
+            for (int j = 0; j < M; j++) {
+                if (arr[i][j] == 0) {
+                    sb.append("0 ");
+                } else if (!isVisited[i][j]) {
+                    sb.append("-1 ");
+                } else {
                     sb.append(distance[i][j]).append(" ");
+                }
+            }
             sb.append("\n");
         }
         System.out.println(sb);
 
     }
-    private static void bfs(int x, int y) {
-        Queue<Point> queue = new LinkedList<>();
-        queue.add(new Point(x, y));
-        isVisited[x][y] = true;
+    public static void bfs(int startRow, int startCol) {
+        Queue<Point> q = new LinkedList<>();
+        q.add(new Point(startRow, startCol));
+        isVisited[startRow][startCol] = true;
 
-        while (!queue.isEmpty()) {
-            Point current = queue.poll();
+        while (!q.isEmpty()) {
+            Point p = q.poll();
 
             for (int i = 0; i < 4; i++) {
-                int nextX = current.row + DX[i];
-                int nextY = current.col + DY[i];
+                int newRow = p.row + DY[i];
+                int newCol = p.col + DX[i];
 
-                if (nextX < 0 || nextY < 0 || nextX >= N || nextY >= M) continue;
-                if (arr[nextX][nextY] == 0) continue;
-                if (isVisited[nextX][nextY]) continue;
+                if (newRow < 0 || newCol < 0 || newRow >= N || newCol >= M)
+                    continue;
+                if (isVisited[newRow][newCol] || arr[newRow][newCol] == 0)
+                    continue;
 
-                queue.add(new Point(nextX, nextY));
-                distance[nextX][nextY] = distance[current.row][current.col] + 1;
-                isVisited[nextX][nextY] = true;
+                q.add(new Point(newRow, newCol));
+                distance[newRow][newCol] = distance[p.row][p.col] + 1;
+                isVisited[newRow][newCol] = true;
             }
         }
     }
-
 
     static class Point {
         int row, col;
