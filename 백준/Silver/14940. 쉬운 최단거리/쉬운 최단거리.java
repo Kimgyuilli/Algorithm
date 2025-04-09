@@ -1,7 +1,6 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
@@ -28,17 +27,15 @@ public class Main {
         isVisited = new boolean[N][M];
 
         for (int i = 0; i < N; i++) {
-            arr[i] = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
-            if (!isStartChecked)
-                for (int j = 0; j < M; j++)
-                    if (arr[i][j] == 2) {
-                        isStartChecked = true;
-                        startX = i;
-                        startY = j;
-                        break;
-                    }
+            st = new StringTokenizer(br.readLine());
+            for (int j = 0; j < M; j++) {
+                arr[i][j] = Integer.parseInt(st.nextToken());
+                if(arr[i][j] == 2){
+                    startX = i;
+                    startY = j;
+                }
+            }
         }
-        
         bfs(startX, startY);
 
         StringBuilder sb = new StringBuilder();
