@@ -1,21 +1,23 @@
 public class Main {
     public static void main(String[] args) {
 
-        int NumArr[] = new int[10001];
+        boolean[] isNotSelfNum = new boolean[10001];
 
         for (int i = 1; i <= 10000; i++) {
             int selfNum = generateSelfNum(i);
 
             if (selfNum <= 10000){
-                NumArr[selfNum] = 1;
+                isNotSelfNum [selfNum] = true;
             }
         }
 
+        StringBuilder sb = new StringBuilder();
         for (int i = 1; i<= 10000; i++) {
-            if(NumArr[i] == 0){
-                System.out.println(i);
+            if(!isNotSelfNum [i]){
+                sb.append(i).append('\n');
             }
         }
+        System.out.print(sb);
 
     }
 
