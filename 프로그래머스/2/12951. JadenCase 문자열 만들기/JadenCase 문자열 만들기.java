@@ -1,13 +1,15 @@
+import java.util.*;
+
 class Solution {
     public String solution(String s) {
         StringBuilder answer = new StringBuilder(s.length());
         boolean isWordStart = true;
         
         for (char c : s.toCharArray()) {
-            if (c == ' ') {
+            if (c == ' '){
                 answer.append(c);
                 isWordStart = true;
-            } else {
+            } else{
                 answer.append(isWordStart ? Character.toUpperCase(c) : Character.toLowerCase(c));
                 isWordStart = false;
             }
