@@ -1,0 +1,15 @@
+import java.util.Arrays;
+
+class Solution {
+    public String solution(String my_string, int n) {
+        StringBuilder sb = new StringBuilder();
+        
+        char[] ch = my_string.toCharArray();
+        
+        for(char c : ch){
+            sb.append(String.valueOf(c).repeat(n));
+        }
+        
+        return sb.toString();
+    }
+}
