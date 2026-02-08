@@ -1,30 +1,19 @@
 class Solution {
     int answer = 0;
+    
     public int solution(int[] number) {
-        
-        boolean[] visited = new boolean[number.length];
-        search(number, visited, 0, number.length, 0);
-        
+        search(number, 0, 0, 0);
         return answer;
     }
     
-    private void search(int[] arr, boolean[] visited, int start, int length, int depth){
-        if(depth == 3){
-            int sum = 0;
-            for(int i = 0; i < length; i++){
-                if(visited[i]) sum += arr[i];
-            }
-            
+    private void search(int[] arr, int start, int depth, int sum) {
+        if(depth == 3) {
             if(sum == 0) answer++;
             return;
         }
         
-        for(int i = start; i < length; i++){
-            visited[i] = true;
-            search(arr, visited, i + 1, length, depth + 1);
-            visited[i] = false;
+        for(int i = start; i < arr.length; i++) {
+            search(arr, i + 1, depth + 1, sum + arr[i]);
         }
-        
     }
-    
 }
