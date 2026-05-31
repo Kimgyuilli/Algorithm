@@ -12,6 +12,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0027-remove-element](https://github.com/Kimgyuilli/Algorithm/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Kimgyuilli/Algorithm/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Kimgyuilli/Algorithm/tree/master/0066-plus-one) |
+| [2126-destroying-asteroids](https://github.com/Kimgyuilli/Algorithm/tree/master/2126-destroying-asteroids) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,4 +74,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Kimgyuilli/Algorithm/tree/master/0067-add-binary) |
+## Greedy
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/Kimgyuilli/Algorithm/tree/master/2126-destroying-asteroids) |
+## Sorting
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/Kimgyuilli/Algorithm/tree/master/2126-destroying-asteroids) |
 <!---LeetCode Topics End-->
