@@ -3,10 +3,11 @@ import java.util.*;
 class Solution {
     public boolean asteroidsDestroyed(int mass, int[] asteroids) {
         Arrays.sort(asteroids);
-        long longmass = mass;
+        int max = asteroids[asteroids.length-1];
         for(int i : asteroids) {
-            if(longmass < i) return false;
-            longmass += i;
+            if(mass < i) return false;
+            mass += i;
+            if(mass > max) return true;
         }
         return true;
     }
