@@ -27,6 +27,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0066-plus-one](https://github.com/Kimgyuilli/Algorithm/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Kimgyuilli/Algorithm/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Kimgyuilli/Algorithm/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Kimgyuilli/Algorithm/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -85,4 +86,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [2126-destroying-asteroids](https://github.com/Kimgyuilli/Algorithm/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kimgyuilli/Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Kimgyuilli/Algorithm/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Kimgyuilli/Algorithm/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
