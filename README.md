@@ -31,6 +31,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0067-add-binary](https://github.com/Kimgyuilli/Algorithm/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Kimgyuilli/Algorithm/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Kimgyuilli/Algorithm/tree/master/0070-climbing-stairs) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
 |  |
 | ------- |
@@ -105,6 +106,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kimgyuilli/Algorithm/tree/master/0070-climbing-stairs) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
@@ -128,4 +130,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0100-same-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
