@@ -15,6 +15,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0088-merge-sorted-array](https://github.com/Kimgyuilli/Algorithm/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1720-decode-xored-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1720-decode-xored-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2126-destroying-asteroids](https://github.com/Kimgyuilli/Algorithm/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kimgyuilli/Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -35,6 +36,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0069-sqrtx](https://github.com/Kimgyuilli/Algorithm/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Kimgyuilli/Algorithm/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/Kimgyuilli/Algorithm/tree/master/0836-rectangle-overlap) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
 |  |
