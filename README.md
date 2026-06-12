@@ -63,6 +63,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0058-length-of-last-word](https://github.com/Kimgyuilli/Algorithm/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Kimgyuilli/Algorithm/tree/master/0067-add-binary) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kimgyuilli/Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3110-score-of-a-string](https://github.com/Kimgyuilli/Algorithm/tree/master/3110-score-of-a-string) |
 ## Trie
 |  |
 | ------- |
