@@ -24,6 +24,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kimgyuilli/Algorithm/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kimgyuilli/Algorithm/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3668-restore-finishing-order](https://github.com/Kimgyuilli/Algorithm/tree/master/3668-restore-finishing-order) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3689-maximum-total-subarray-value-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Kimgyuilli/Algorithm/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Kimgyuilli/Algorithm/tree/master/3925-concatenate-array-with-reverse) |
@@ -35,6 +36,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0202-happy-number](https://github.com/Kimgyuilli/Algorithm/tree/master/0202-happy-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kimgyuilli/Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kimgyuilli/Algorithm/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3668-restore-finishing-order](https://github.com/Kimgyuilli/Algorithm/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/Kimgyuilli/Algorithm/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
