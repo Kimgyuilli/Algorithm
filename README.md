@@ -16,6 +16,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1720-decode-xored-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1720-decode-xored-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Kimgyuilli/Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/Kimgyuilli/Algorithm/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kimgyuilli/Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -56,6 +57,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0202-happy-number](https://github.com/Kimgyuilli/Algorithm/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/Kimgyuilli/Algorithm/tree/master/0836-rectangle-overlap) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Kimgyuilli/Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2469-convert-the-temperature](https://github.com/Kimgyuilli/Algorithm/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Kimgyuilli/Algorithm/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Kimgyuilli/Algorithm/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -123,6 +125,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0067-add-binary](https://github.com/Kimgyuilli/Algorithm/tree/master/0067-add-binary) |
 | [1720-decode-xored-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1720-decode-xored-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Kimgyuilli/Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Simulation
 |  |
 | ------- |
@@ -192,6 +195,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Kimgyuilli/Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Divide and Conquer
 |  |
@@ -217,4 +221,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Kimgyuilli/Algorithm/tree/master/3898-find-the-degree-of-each-vertex) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Kimgyuilli/Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Kimgyuilli/Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
