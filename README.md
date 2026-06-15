@@ -14,6 +14,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0066-plus-one](https://github.com/Kimgyuilli/Algorithm/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Kimgyuilli/Algorithm/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1512-number-of-good-pairs](https://github.com/Kimgyuilli/Algorithm/tree/master/1512-number-of-good-pairs) |
 | [1720-decode-xored-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1720-decode-xored-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Kimgyuilli/Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -42,6 +43,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0001-two-sum](https://github.com/Kimgyuilli/Algorithm/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Kimgyuilli/Algorithm/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Kimgyuilli/Algorithm/tree/master/0202-happy-number) |
+| [1512-number-of-good-pairs](https://github.com/Kimgyuilli/Algorithm/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kimgyuilli/Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kimgyuilli/Algorithm/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3668-restore-finishing-order](https://github.com/Kimgyuilli/Algorithm/tree/master/3668-restore-finishing-order) |
@@ -57,6 +59,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0070-climbing-stairs](https://github.com/Kimgyuilli/Algorithm/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Kimgyuilli/Algorithm/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/Kimgyuilli/Algorithm/tree/master/0836-rectangle-overlap) |
+| [1512-number-of-good-pairs](https://github.com/Kimgyuilli/Algorithm/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Kimgyuilli/Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2469-convert-the-temperature](https://github.com/Kimgyuilli/Algorithm/tree/master/2469-convert-the-temperature) |
@@ -232,4 +235,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Kimgyuilli/Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Kimgyuilli/Algorithm/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
