@@ -28,6 +28,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2574-left-and-right-sum-differences](https://github.com/Kimgyuilli/Algorithm/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/Kimgyuilli/Algorithm/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kimgyuilli/Algorithm/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Kimgyuilli/Algorithm/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/Kimgyuilli/Algorithm/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kimgyuilli/Algorithm/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -47,6 +48,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1512-number-of-good-pairs](https://github.com/Kimgyuilli/Algorithm/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kimgyuilli/Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kimgyuilli/Algorithm/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Kimgyuilli/Algorithm/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Kimgyuilli/Algorithm/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/Kimgyuilli/Algorithm/tree/master/3945-digit-frequency-score) |
 ## Math
@@ -67,6 +69,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2769-find-the-maximum-achievable-number](https://github.com/Kimgyuilli/Algorithm/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Kimgyuilli/Algorithm/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kimgyuilli/Algorithm/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Kimgyuilli/Algorithm/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kimgyuilli/Algorithm/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Kimgyuilli/Algorithm/tree/master/3783-mirror-distance-of-an-integer) |
