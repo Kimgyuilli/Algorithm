@@ -92,6 +92,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kimgyuilli/Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Kimgyuilli/Algorithm/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Kimgyuilli/Algorithm/tree/master/3110-score-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/Kimgyuilli/Algorithm/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/Kimgyuilli/Algorithm/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
@@ -122,6 +123,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kimgyuilli/Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kimgyuilli/Algorithm/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3794-reverse-string-prefix](https://github.com/Kimgyuilli/Algorithm/tree/master/3794-reverse-string-prefix) |
 ## String Matching
 |  |
 | ------- |
