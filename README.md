@@ -46,6 +46,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0001-two-sum](https://github.com/Kimgyuilli/Algorithm/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Kimgyuilli/Algorithm/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Kimgyuilli/Algorithm/tree/master/0202-happy-number) |
+| [0771-jewels-and-stones](https://github.com/Kimgyuilli/Algorithm/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/Kimgyuilli/Algorithm/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kimgyuilli/Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kimgyuilli/Algorithm/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -85,6 +86,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kimgyuilli/Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Kimgyuilli/Algorithm/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Kimgyuilli/Algorithm/tree/master/0067-add-binary) |
+| [0771-jewels-and-stones](https://github.com/Kimgyuilli/Algorithm/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Kimgyuilli/Algorithm/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kimgyuilli/Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kimgyuilli/Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
