@@ -16,6 +16,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1512-number-of-good-pairs](https://github.com/Kimgyuilli/Algorithm/tree/master/1512-number-of-good-pairs) |
 | [1720-decode-xored-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1720-decode-xored-array) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kimgyuilli/Algorithm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Kimgyuilli/Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/Kimgyuilli/Algorithm/tree/master/1920-build-array-from-permutation) |
@@ -92,6 +93,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0771-jewels-and-stones](https://github.com/Kimgyuilli/Algorithm/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Kimgyuilli/Algorithm/tree/master/1108-defanging-an-ip-address) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kimgyuilli/Algorithm/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kimgyuilli/Algorithm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kimgyuilli/Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kimgyuilli/Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Kimgyuilli/Algorithm/tree/master/2942-find-words-containing-character) |
@@ -239,6 +241,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Prefix Sum
 |  |
 | ------- |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kimgyuilli/Algorithm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2574-left-and-right-sum-differences](https://github.com/Kimgyuilli/Algorithm/tree/master/2574-left-and-right-sum-differences) |
 ## Graph Theory
 |  |
