@@ -216,6 +216,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0101-symmetric-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kimgyuilli/Algorithm/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -224,6 +225,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0100-same-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -232,6 +234,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0101-symmetric-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kimgyuilli/Algorithm/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
@@ -253,6 +256,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Geometry
 |  |
 | ------- |
