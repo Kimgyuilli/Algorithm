@@ -102,6 +102,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2942-find-words-containing-character](https://github.com/Kimgyuilli/Algorithm/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Kimgyuilli/Algorithm/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/Kimgyuilli/Algorithm/tree/master/3280-convert-date-to-binary) |
+| [3498-reverse-degree-of-a-string](https://github.com/Kimgyuilli/Algorithm/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Kimgyuilli/Algorithm/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Kimgyuilli/Algorithm/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Kimgyuilli/Algorithm/tree/master/3794-reverse-string-prefix) |
@@ -165,6 +166,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kimgyuilli/Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kimgyuilli/Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Kimgyuilli/Algorithm/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3498-reverse-degree-of-a-string](https://github.com/Kimgyuilli/Algorithm/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Kimgyuilli/Algorithm/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/Kimgyuilli/Algorithm/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/Kimgyuilli/Algorithm/tree/master/3925-concatenate-array-with-reverse) |
