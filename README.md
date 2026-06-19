@@ -106,6 +106,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kimgyuilli/Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Kimgyuilli/Algorithm/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Kimgyuilli/Algorithm/tree/master/3110-score-of-a-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Kimgyuilli/Algorithm/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3280-convert-date-to-binary](https://github.com/Kimgyuilli/Algorithm/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kimgyuilli/Algorithm/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Kimgyuilli/Algorithm/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -163,6 +164,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1720-decode-xored-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Kimgyuilli/Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kimgyuilli/Algorithm/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Kimgyuilli/Algorithm/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Simulation
 |  |
 | ------- |
@@ -271,6 +273,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Kimgyuilli/Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kimgyuilli/Algorithm/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Kimgyuilli/Algorithm/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Combinatorics
 |  |
 | ------- |
