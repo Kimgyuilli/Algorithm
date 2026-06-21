@@ -171,6 +171,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1720-decode-xored-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Kimgyuilli/Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kimgyuilli/Algorithm/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Kimgyuilli/Algorithm/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Kimgyuilli/Algorithm/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kimgyuilli/Algorithm/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Kimgyuilli/Algorithm/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
