@@ -34,6 +34,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Kimgyuilli/Algorithm/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2574-left-and-right-sum-differences](https://github.com/Kimgyuilli/Algorithm/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kimgyuilli/Algorithm/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Kimgyuilli/Algorithm/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Kimgyuilli/Algorithm/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kimgyuilli/Algorithm/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Kimgyuilli/Algorithm/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
