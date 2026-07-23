@@ -94,6 +94,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kimgyuilli/Algorithm/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kimgyuilli/Algorithm/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Kimgyuilli/Algorithm/tree/master/3516-find-closest-person) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Kimgyuilli/Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Kimgyuilli/Algorithm/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/Kimgyuilli/Algorithm/tree/master/3945-digit-frequency-score) |
@@ -311,4 +312,5 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Kimgyuilli/Algorithm/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Kimgyuilli/Algorithm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Kimgyuilli/Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
