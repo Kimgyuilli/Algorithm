@@ -1,19 +1,25 @@
 class Solution {
     public int[] smallerNumbersThanCurrent(int[] nums) {
         int[] count = new int[101];
-        int[] accumulate = new int[101];
 
-        for(int n : nums) {
-            count[n]++;
+        for (int num : nums) {
+            count[num]++;
         }
 
-        for(int i = 1; i < 101; i++) {
-            accumulate[i] = count[i-1] + accumulate[i-1];
+        int smallerCount = 0;
+
+        for (int value = 0; value <= 100; value++) {
+            int frequency = count[value];
+
+            // count[value]를 value보다 작은 숫자의 개수로 변경
+            count[value] = smallerCount;
+            smallerCount += frequency;
         }
 
-        for(int i = 0; i < nums.length; i++) {
-            nums[i] = accumulate[nums[i]];
+        for (int i = 0; i < nums.length; i++) {
+            nums[i] = count[nums[i]];
         }
+
         return nums;
     }
 }
