@@ -114,6 +114,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0058-length-of-last-word](https://github.com/Kimgyuilli/Algorithm/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Kimgyuilli/Algorithm/tree/master/0067-add-binary) |
 | [0771-jewels-and-stones](https://github.com/Kimgyuilli/Algorithm/tree/master/0771-jewels-and-stones) |
+| [1021-remove-outermost-parentheses](https://github.com/Kimgyuilli/Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Kimgyuilli/Algorithm/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Kimgyuilli/Algorithm/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1678-goal-parser-interpretation](https://github.com/Kimgyuilli/Algorithm/tree/master/1678-goal-parser-interpretation) |
@@ -141,6 +142,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kimgyuilli/Algorithm/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kimgyuilli/Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/Kimgyuilli/Algorithm/tree/master/1021-remove-outermost-parentheses) |
 ## Linked List
 |  |
 | ------- |
