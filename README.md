@@ -41,6 +41,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kimgyuilli/Algorithm/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Kimgyuilli/Algorithm/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kimgyuilli/Algorithm/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3285-find-indices-of-stable-mountains](https://github.com/Kimgyuilli/Algorithm/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Kimgyuilli/Algorithm/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kimgyuilli/Algorithm/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/Kimgyuilli/Algorithm/tree/master/3467-transform-array-by-parity) |
