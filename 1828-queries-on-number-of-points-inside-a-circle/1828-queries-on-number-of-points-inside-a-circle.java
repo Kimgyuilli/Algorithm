@@ -1,7 +1,9 @@
 class Solution {
     public int[] countPoints(int[][] points, int[][] queries) {
-        int[] result = new int[queries.length];
-        for(int i = 0; i < queries.length; i++) {
+        int n = queries.length;
+        int m = points.length;
+        int[] result = new int[n];
+        for(int i = 0; i < n; i++) {
             int x = queries[i][0];
             int y = queries[i][1];
             int r = queries[i][2];
