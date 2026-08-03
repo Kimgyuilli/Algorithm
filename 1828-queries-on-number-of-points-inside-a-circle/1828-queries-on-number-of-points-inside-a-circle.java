@@ -7,24 +7,19 @@ class Solution {
             int x = queries[i][0];
             int y = queries[i][1];
             int r = queries[i][2];
+            int r2 = r*r;
 
             for(int[] point : points) {
-                if(computeQuery(x, y, r, point[0], point[1])) {
+                int xd = x - point[0];
+                int yd = y - point[1];
+                int distance = xd * xd + yd * yd;
+
+                if(distance <= r2) {
                     result[i]++;
                 }
             }
         }
         return result;
     }
-    
-    private boolean computeQuery(int qx, int qy, int qr, int px, int py) {
-        int xdistance = qx - px;
-        int ydistance = qy - py;
-        int distance = xdistance * xdistance + ydistance * ydistance;
 
-        if(distance > qr * qr) {
-            return false;
-        }
-        return true;
-    }
 }
