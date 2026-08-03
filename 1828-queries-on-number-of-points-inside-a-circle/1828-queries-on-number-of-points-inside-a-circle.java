@@ -16,8 +16,8 @@ class Solution {
     }
     
     private boolean computeQuery(int qx, int qy, int qr, int px, int py) {
-        int xdistance = Math.abs(qx - px);
-        int ydistance = Math.abs(qy - py);
+        int xdistance = qx - px;
+        int ydistance = qy - py;
         int distance = xdistance * xdistance + ydistance * ydistance;
 
         if(distance > qr * qr) {
