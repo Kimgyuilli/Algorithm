@@ -1,24 +1,15 @@
 class Solution {
-    static int answer;
-    public int solution(int[] numbers, int target) {
-        
-        answer = 0;
-         
-        dfs(0, 0, numbers, target);
-        
-        
-        return answer;
-    }
-    
-    private void dfs(int depth, int sum, int[] numbers, int target){
-        if(depth == numbers.length){
-            if(sum == target){
-                answer += 1;
-            }
-            return;
-        }
-
-        dfs(depth + 1, sum + numbers[depth], numbers, target);
-        dfs(depth + 1, sum - numbers[depth], numbers, target);
-    }
+	public int solution(int[] numbers, int target) {
+			return DFS(0, 0, numbers, target);
+	}
+	
+	private int DFS(int depth, int cur, int[] numbers, int target) {
+		if(depth == numbers.length) {
+			return cur == target ? 1 : 0;
+		}
+		
+		return DFS(depth + 1, cur + numbers[depth], numbers, target) 
+		+ DFS(depth + 1, cur - numbers[depth], numbers, target);
+	}
+	
 }
