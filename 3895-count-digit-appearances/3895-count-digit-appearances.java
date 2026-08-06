@@ -1,13 +1,14 @@
 class Solution {
     public int countDigitOccurrences(int[] nums, int digit) {
-        StringBuilder sb = new StringBuilder();
+        int answer = 0;
 
         for(int num : nums) {
-            sb.append(num);
+            while(num > 0) {
+                if(num % 10 == digit) answer++;
+                num /= 10;
+            }
         }
 
-        String regular = "[^" + digit + "]";
-
-        return sb.toString().replaceAll(regular, "").length();
+        return answer;
     }
 }
