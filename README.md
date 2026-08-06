@@ -58,6 +58,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3701-compute-alternating-sum](https://github.com/Kimgyuilli/Algorithm/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Kimgyuilli/Algorithm/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/Kimgyuilli/Algorithm/tree/master/3838-weighted-word-mapping) |
+| [3895-count-digit-appearances](https://github.com/Kimgyuilli/Algorithm/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Kimgyuilli/Algorithm/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Kimgyuilli/Algorithm/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -113,6 +114,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kimgyuilli/Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Kimgyuilli/Algorithm/tree/master/3783-mirror-distance-of-an-integer) |
+| [3895-count-digit-appearances](https://github.com/Kimgyuilli/Algorithm/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/Kimgyuilli/Algorithm/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
