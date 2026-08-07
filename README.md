@@ -68,6 +68,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0001-two-sum](https://github.com/Kimgyuilli/Algorithm/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Kimgyuilli/Algorithm/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Kimgyuilli/Algorithm/tree/master/0202-happy-number) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Kimgyuilli/Algorithm/tree/master/0535-encode-and-decode-tinyurl) |
 | [0771-jewels-and-stones](https://github.com/Kimgyuilli/Algorithm/tree/master/0771-jewels-and-stones) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Kimgyuilli/Algorithm/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kimgyuilli/Algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -126,6 +127,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kimgyuilli/Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Kimgyuilli/Algorithm/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Kimgyuilli/Algorithm/tree/master/0067-add-binary) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Kimgyuilli/Algorithm/tree/master/0535-encode-and-decode-tinyurl) |
 | [0771-jewels-and-stones](https://github.com/Kimgyuilli/Algorithm/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/Kimgyuilli/Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Kimgyuilli/Algorithm/tree/master/1108-defanging-an-ip-address) |
@@ -367,9 +369,14 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Design
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Kimgyuilli/Algorithm/tree/master/0535-encode-and-decode-tinyurl) |
 | [1603-design-parking-system](https://github.com/Kimgyuilli/Algorithm/tree/master/1603-design-parking-system) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Kimgyuilli/Algorithm/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
