@@ -335,6 +335,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Graph Theory
 |  |
 | ------- |
+| [1791-find-center-of-star-graph](https://github.com/Kimgyuilli/Algorithm/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Kimgyuilli/Algorithm/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
 |  |
