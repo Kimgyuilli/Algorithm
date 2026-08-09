@@ -15,6 +15,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0088-merge-sorted-array](https://github.com/Kimgyuilli/Algorithm/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0654-maximum-binary-tree) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Kimgyuilli/Algorithm/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Kimgyuilli/Algorithm/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kimgyuilli/Algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kimgyuilli/Algorithm/tree/master/1389-create-target-array-in-the-given-order) |
@@ -242,6 +243,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Greedy
 |  |
 | ------- |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Kimgyuilli/Algorithm/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Kimgyuilli/Algorithm/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Kimgyuilli/Algorithm/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kimgyuilli/Algorithm/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -358,6 +360,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Matrix
 |  |
 | ------- |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Kimgyuilli/Algorithm/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1476-subrectangle-queries](https://github.com/Kimgyuilli/Algorithm/tree/master/1476-subrectangle-queries) |
 | [1672-richest-customer-wealth](https://github.com/Kimgyuilli/Algorithm/tree/master/1672-richest-customer-wealth) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Kimgyuilli/Algorithm/tree/master/2373-largest-local-values-in-a-matrix) |
