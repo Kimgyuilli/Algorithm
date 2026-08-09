@@ -1,38 +1,27 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
+import java.util.ArrayDeque;
+import java.util.Deque;
+
 class Solution {
     public TreeNode constructMaximumBinaryTree(int[] nums) {
-        if (nums.length == 0) {
-           return null;
-        }  
-        int max = 0;
-        int idx = 0;
-        int len = nums.length;
-        for(int i = 0; i < len; i++) {
-            if(max < nums[i]) {
-                max = nums[i];
-                idx = i;
+        Deque<TreeNode> stack = new ArrayDeque<>();
+
+        for (int num : nums) {
+            TreeNode current = new TreeNode(num);
+
+            // current보다 작은 노드는 current의 왼쪽 서브트리가 된다.
+            while (!stack.isEmpty() && stack.peek().val < num) {
+                current.left = stack.pop();
             }
+
+            // 스택에 남은 가장 가까운 큰 노드의 오른쪽 자식이 된다.
+            if (!stack.isEmpty()) {
+                stack.peek().right = current;
+            }
+
+            stack.push(current);
         }
 
-        TreeNode root = new TreeNode(nums[idx]);
-
-        root.left = constructMaximumBinaryTree(Arrays.copyOfRange(nums, 0, idx));
-        root.right = constructMaximumBinaryTree(Arrays.copyOfRange(nums, idx + 1, len));
-
-        return root;
+        // 스택 맨 아래에 전체 트리의 루트가 있다.
+        return stack.peekLast();
     }
 }
