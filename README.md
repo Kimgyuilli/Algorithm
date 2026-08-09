@@ -103,6 +103,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kimgyuilli/Algorithm/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Kimgyuilli/Algorithm/tree/master/1512-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/Kimgyuilli/Algorithm/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Kimgyuilli/Algorithm/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Kimgyuilli/Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -221,6 +222,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0067-add-binary](https://github.com/Kimgyuilli/Algorithm/tree/master/0067-add-binary) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kimgyuilli/Algorithm/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/Kimgyuilli/Algorithm/tree/master/1603-design-parking-system) |
+| [1688-count-of-matches-in-tournament](https://github.com/Kimgyuilli/Algorithm/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Kimgyuilli/Algorithm/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kimgyuilli/Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
