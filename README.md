@@ -35,6 +35,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Kimgyuilli/Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/Kimgyuilli/Algorithm/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kimgyuilli/Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kimgyuilli/Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kimgyuilli/Algorithm/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Kimgyuilli/Algorithm/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -150,6 +151,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kimgyuilli/Algorithm/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kimgyuilli/Algorithm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kimgyuilli/Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kimgyuilli/Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Kimgyuilli/Algorithm/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kimgyuilli/Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Kimgyuilli/Algorithm/tree/master/2114-maximum-number-of-words-found-in-sentences) |
