@@ -298,6 +298,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0938-range-sum-of-bst](https://github.com/Kimgyuilli/Algorithm/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Kimgyuilli/Algorithm/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Kimgyuilli/Algorithm/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1382-balance-a-binary-search-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kimgyuilli/Algorithm/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kimgyuilli/Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -312,6 +313,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0938-range-sum-of-bst](https://github.com/Kimgyuilli/Algorithm/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Kimgyuilli/Algorithm/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Kimgyuilli/Algorithm/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1382-balance-a-binary-search-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kimgyuilli/Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -327,6 +329,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0938-range-sum-of-bst](https://github.com/Kimgyuilli/Algorithm/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Kimgyuilli/Algorithm/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Kimgyuilli/Algorithm/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1382-balance-a-binary-search-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kimgyuilli/Algorithm/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kimgyuilli/Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -338,6 +341,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0101-symmetric-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Kimgyuilli/Algorithm/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Kimgyuilli/Algorithm/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Enumeration
 |  |
