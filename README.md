@@ -46,6 +46,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kimgyuilli/Algorithm/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Kimgyuilli/Algorithm/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Kimgyuilli/Algorithm/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Kimgyuilli/Algorithm/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2574-left-and-right-sum-differences](https://github.com/Kimgyuilli/Algorithm/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Kimgyuilli/Algorithm/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kimgyuilli/Algorithm/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -270,6 +271,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Kimgyuilli/Algorithm/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2126-destroying-asteroids](https://github.com/Kimgyuilli/Algorithm/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kimgyuilli/Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Kimgyuilli/Algorithm/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kimgyuilli/Algorithm/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/Kimgyuilli/Algorithm/tree/master/3467-transform-array-by-parity) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -379,6 +381,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1476-subrectangle-queries](https://github.com/Kimgyuilli/Algorithm/tree/master/1476-subrectangle-queries) |
 | [1672-richest-customer-wealth](https://github.com/Kimgyuilli/Algorithm/tree/master/1672-richest-customer-wealth) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Kimgyuilli/Algorithm/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Kimgyuilli/Algorithm/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Kimgyuilli/Algorithm/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Backtracking
 |  |
