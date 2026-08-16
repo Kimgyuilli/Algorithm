@@ -88,6 +88,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1684-count-the-number-of-consistent-strings](https://github.com/Kimgyuilli/Algorithm/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kimgyuilli/Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kimgyuilli/Algorithm/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2325-decode-the-message](https://github.com/Kimgyuilli/Algorithm/tree/master/2325-decode-the-message) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Kimgyuilli/Algorithm/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kimgyuilli/Algorithm/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Kimgyuilli/Algorithm/tree/master/3146-permutation-difference-between-two-strings) |
@@ -162,6 +163,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2000-reverse-prefix-of-word](https://github.com/Kimgyuilli/Algorithm/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kimgyuilli/Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Kimgyuilli/Algorithm/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2325-decode-the-message](https://github.com/Kimgyuilli/Algorithm/tree/master/2325-decode-the-message) |
 | [2942-find-words-containing-character](https://github.com/Kimgyuilli/Algorithm/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Kimgyuilli/Algorithm/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Kimgyuilli/Algorithm/tree/master/3146-permutation-difference-between-two-strings) |
