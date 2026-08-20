@@ -49,6 +49,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2367-number-of-arithmetic-triplets](https://github.com/Kimgyuilli/Algorithm/tree/master/2367-number-of-arithmetic-triplets) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Kimgyuilli/Algorithm/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Kimgyuilli/Algorithm/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Kimgyuilli/Algorithm/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Kimgyuilli/Algorithm/tree/master/2574-left-and-right-sum-differences) |
@@ -129,6 +130,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2413-smallest-even-multiple](https://github.com/Kimgyuilli/Algorithm/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Kimgyuilli/Algorithm/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Kimgyuilli/Algorithm/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Kimgyuilli/Algorithm/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Kimgyuilli/Algorithm/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Kimgyuilli/Algorithm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
