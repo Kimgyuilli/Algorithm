@@ -170,6 +170,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kimgyuilli/Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Kimgyuilli/Algorithm/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2325-decode-the-message](https://github.com/Kimgyuilli/Algorithm/tree/master/2325-decode-the-message) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Kimgyuilli/Algorithm/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2942-find-words-containing-character](https://github.com/Kimgyuilli/Algorithm/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Kimgyuilli/Algorithm/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Kimgyuilli/Algorithm/tree/master/3146-permutation-difference-between-two-strings) |
@@ -192,6 +193,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0654-maximum-binary-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0654-maximum-binary-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/Kimgyuilli/Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Kimgyuilli/Algorithm/tree/master/2000-reverse-prefix-of-word) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Kimgyuilli/Algorithm/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Linked List
 |  |
 | ------- |
@@ -273,6 +275,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kimgyuilli/Algorithm/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2126-destroying-asteroids](https://github.com/Kimgyuilli/Algorithm/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kimgyuilli/Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Kimgyuilli/Algorithm/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kimgyuilli/Algorithm/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3689-maximum-total-subarray-value-i) |
@@ -413,6 +416,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Kimgyuilli/Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kimgyuilli/Algorithm/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Kimgyuilli/Algorithm/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Kimgyuilli/Algorithm/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Combinatorics
 |  |
