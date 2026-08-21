@@ -33,6 +33,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1684-count-the-number-of-consistent-strings](https://github.com/Kimgyuilli/Algorithm/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1720-decode-xored-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kimgyuilli/Algorithm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1773-count-items-matching-a-rule](https://github.com/Kimgyuilli/Algorithm/tree/master/1773-count-items-matching-a-rule) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Kimgyuilli/Algorithm/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Kimgyuilli/Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -170,6 +171,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1684-count-the-number-of-consistent-strings](https://github.com/Kimgyuilli/Algorithm/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kimgyuilli/Algorithm/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kimgyuilli/Algorithm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1773-count-items-matching-a-rule](https://github.com/Kimgyuilli/Algorithm/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kimgyuilli/Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kimgyuilli/Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Kimgyuilli/Algorithm/tree/master/2000-reverse-prefix-of-word) |
