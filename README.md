@@ -20,6 +20,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1313-decompress-run-length-encoded-list](https://github.com/Kimgyuilli/Algorithm/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kimgyuilli/Algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kimgyuilli/Algorithm/tree/master/1389-create-target-array-in-the-given-order) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Kimgyuilli/Algorithm/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kimgyuilli/Algorithm/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1470-shuffle-the-array) |
 | [1476-subrectangle-queries](https://github.com/Kimgyuilli/Algorithm/tree/master/1476-subrectangle-queries) |
@@ -270,6 +271,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0067-add-binary](https://github.com/Kimgyuilli/Algorithm/tree/master/0067-add-binary) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kimgyuilli/Algorithm/tree/master/1389-create-target-array-in-the-given-order) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Kimgyuilli/Algorithm/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1603-design-parking-system](https://github.com/Kimgyuilli/Algorithm/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kimgyuilli/Algorithm/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Kimgyuilli/Algorithm/tree/master/1920-build-array-from-permutation) |
@@ -493,4 +495,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kimgyuilli/Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Kimgyuilli/Algorithm/tree/master/1409-queries-on-a-permutation-with-key) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Kimgyuilli/Algorithm/tree/master/1409-queries-on-a-permutation-with-key) |
 <!---LeetCode Topics End-->
