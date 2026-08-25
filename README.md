@@ -50,6 +50,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kimgyuilli/Algorithm/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Kimgyuilli/Algorithm/tree/master/2367-number-of-arithmetic-triplets) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Kimgyuilli/Algorithm/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Kimgyuilli/Algorithm/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Kimgyuilli/Algorithm/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Kimgyuilli/Algorithm/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -185,6 +186,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Kimgyuilli/Algorithm/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2325-decode-the-message](https://github.com/Kimgyuilli/Algorithm/tree/master/2325-decode-the-message) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Kimgyuilli/Algorithm/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Kimgyuilli/Algorithm/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2942-find-words-containing-character](https://github.com/Kimgyuilli/Algorithm/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Kimgyuilli/Algorithm/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Kimgyuilli/Algorithm/tree/master/3146-permutation-difference-between-two-strings) |
@@ -415,6 +417,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1480-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kimgyuilli/Algorithm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Kimgyuilli/Algorithm/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2574-left-and-right-sum-differences](https://github.com/Kimgyuilli/Algorithm/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Kimgyuilli/Algorithm/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Kimgyuilli/Algorithm/tree/master/3432-count-partitions-with-even-sum-difference) |
