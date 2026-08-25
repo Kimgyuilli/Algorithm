@@ -171,6 +171,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1108-defanging-an-ip-address](https://github.com/Kimgyuilli/Algorithm/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Kimgyuilli/Algorithm/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/Kimgyuilli/Algorithm/tree/master/1528-shuffle-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kimgyuilli/Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kimgyuilli/Algorithm/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Kimgyuilli/Algorithm/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Kimgyuilli/Algorithm/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -205,6 +206,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0094-binary-tree-inorder-traversal](https://github.com/Kimgyuilli/Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0654-maximum-binary-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/Kimgyuilli/Algorithm/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kimgyuilli/Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Kimgyuilli/Algorithm/tree/master/2000-reverse-prefix-of-word) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Kimgyuilli/Algorithm/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Linked List
@@ -484,4 +486,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0654-maximum-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kimgyuilli/Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
