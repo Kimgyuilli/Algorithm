@@ -29,6 +29,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1512-number-of-good-pairs](https://github.com/Kimgyuilli/Algorithm/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Kimgyuilli/Algorithm/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/Kimgyuilli/Algorithm/tree/master/1534-count-good-triplets) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Kimgyuilli/Algorithm/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Kimgyuilli/Algorithm/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kimgyuilli/Algorithm/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Kimgyuilli/Algorithm/tree/master/1672-richest-customer-wealth) |
@@ -133,6 +134,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kimgyuilli/Algorithm/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Kimgyuilli/Algorithm/tree/master/1512-number-of-good-pairs) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Kimgyuilli/Algorithm/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kimgyuilli/Algorithm/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Kimgyuilli/Algorithm/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
@@ -297,6 +299,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1221-split-a-string-in-balanced-strings](https://github.com/Kimgyuilli/Algorithm/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Kimgyuilli/Algorithm/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1382-balance-a-binary-search-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/1382-balance-a-binary-search-tree) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Kimgyuilli/Algorithm/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kimgyuilli/Algorithm/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2126-destroying-asteroids](https://github.com/Kimgyuilli/Algorithm/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kimgyuilli/Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -310,6 +313,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0088-merge-sorted-array](https://github.com/Kimgyuilli/Algorithm/tree/master/0088-merge-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kimgyuilli/Algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Kimgyuilli/Algorithm/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Kimgyuilli/Algorithm/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2126-destroying-asteroids](https://github.com/Kimgyuilli/Algorithm/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kimgyuilli/Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -509,4 +513,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Kimgyuilli/Algorithm/tree/master/1409-queries-on-a-permutation-with-key) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Kimgyuilli/Algorithm/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
