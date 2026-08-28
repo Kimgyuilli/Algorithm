@@ -23,6 +23,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1389-create-target-array-in-the-given-order](https://github.com/Kimgyuilli/Algorithm/tree/master/1389-create-target-array-in-the-given-order) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Kimgyuilli/Algorithm/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kimgyuilli/Algorithm/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kimgyuilli/Algorithm/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1470-shuffle-the-array) |
 | [1476-subrectangle-queries](https://github.com/Kimgyuilli/Algorithm/tree/master/1476-subrectangle-queries) |
@@ -103,6 +104,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0771-jewels-and-stones](https://github.com/Kimgyuilli/Algorithm/tree/master/0771-jewels-and-stones) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Kimgyuilli/Algorithm/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kimgyuilli/Algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kimgyuilli/Algorithm/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1512-number-of-good-pairs](https://github.com/Kimgyuilli/Algorithm/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Kimgyuilli/Algorithm/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kimgyuilli/Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -134,6 +136,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0836-rectangle-overlap](https://github.com/Kimgyuilli/Algorithm/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Kimgyuilli/Algorithm/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kimgyuilli/Algorithm/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kimgyuilli/Algorithm/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Kimgyuilli/Algorithm/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Kimgyuilli/Algorithm/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -262,6 +265,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Kimgyuilli/Algorithm/tree/master/0067-add-binary) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kimgyuilli/Algorithm/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Kimgyuilli/Algorithm/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1720-decode-xored-array) |
@@ -429,6 +433,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Prefix Sum
 |  |
 | ------- |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kimgyuilli/Algorithm/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1480-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kimgyuilli/Algorithm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Kimgyuilli/Algorithm/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
