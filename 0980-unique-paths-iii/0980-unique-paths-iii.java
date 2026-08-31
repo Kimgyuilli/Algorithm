@@ -1,62 +1,57 @@
 class Solution {
-    private static final int[] DX = {0, 0, 1, -1};
-    private static final int[] DY = {1, -1, 0, 0};
-
+    private final int[] DX = new int[] {0, 0, 1, -1};
+    private final int[] DY = new int[] {1, -1, 0, 0};
+    
     private int[][] grid;
-    private int rows;
-    private int cols;
+    private int row;
+    private int col;
 
     public int uniquePathsIII(int[][] grid) {
         this.grid = grid;
-        this.rows = grid.length;
-        this.cols = grid[0].length;
+        this.row = grid.length;
+        this.col = grid[0].length;
 
         int startX = 0;
         int startY = 0;
-        int walkableCount = 0;
+        int workableCount = 0;
 
-        for (int y = 0; y < rows; y++) {
-            for (int x = 0; x < cols; x++) {
-                if (grid[y][x] != -1) {
-                    walkableCount++;
-                }
-
-                if (grid[y][x] == 1) {
-                    startX = x;
-                    startY = y;
+        for(int i = 0; i < grid.length; i++) {
+            for(int j = 0; j < grid[0].length; j++) {
+                if(grid[i][j] != -1) workableCount++;
+                if(grid[i][j] == 1) {
+                    startX = j;
+                    startY = i;
                 }
             }
         }
 
-        return dfs(startX, startY, walkableCount);
+        this.grid[startY][startX] = -1;
+        return DFS(startX, startY, workableCount - 1);
     }
 
-    private int dfs(int x, int y, int remaining) {
-        if (grid[y][x] == 2) {
-            return remaining == 1 ? 1 : 0;
+    private int DFS(int x, int y, int workableCount) {
+        if(grid[y][x] == 2) {
+            return 1;
         }
-
-        int original = grid[y][x];
+        
         grid[y][x] = -1;
+        int path = 0;
 
-        int paths = 0;
-
-        for (int i = 0; i < 4; i++) {
+        for(int i = 0; i < 4; i++) {
             int nx = x + DX[i];
             int ny = y + DY[i];
 
-            if (nx < 0 || nx >= cols || ny < 0 || ny >= rows) {
-                continue;
+            if(nx >= col || ny >= row || nx < 0 || ny < 0 || grid[ny][nx] == -1) {
+                continue; // 갈 수 있는지 체크
+            }
+            if (grid[ny][nx] == 2 && workableCount - 1 > 0) {
+                continue; // 너무 일찍 목표 도착
             }
 
-            if (grid[ny][nx] == -1) {
-                continue;
-            }
-
-            paths += dfs(nx, ny, remaining - 1);
+            path += DFS(nx, ny, workableCount - 1);
         }
-
-        grid[y][x] = original; // 백트래킹
-        return paths;
+        
+        grid[y][x] = 0;
+        return path;
     }
 }
