@@ -58,6 +58,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2373-largest-local-values-in-a-matrix](https://github.com/Kimgyuilli/Algorithm/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Kimgyuilli/Algorithm/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Kimgyuilli/Algorithm/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Kimgyuilli/Algorithm/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Kimgyuilli/Algorithm/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/2553-separate-the-digits-in-an-array) |
@@ -296,6 +297,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kimgyuilli/Algorithm/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kimgyuilli/Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Kimgyuilli/Algorithm/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Kimgyuilli/Algorithm/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/Kimgyuilli/Algorithm/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -461,6 +463,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1476-subrectangle-queries](https://github.com/Kimgyuilli/Algorithm/tree/master/1476-subrectangle-queries) |
 | [1672-richest-customer-wealth](https://github.com/Kimgyuilli/Algorithm/tree/master/1672-richest-customer-wealth) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Kimgyuilli/Algorithm/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Kimgyuilli/Algorithm/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Kimgyuilli/Algorithm/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Kimgyuilli/Algorithm/tree/master/3446-sort-matrix-by-diagonals) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Kimgyuilli/Algorithm/tree/master/3898-find-the-degree-of-each-vertex) |
