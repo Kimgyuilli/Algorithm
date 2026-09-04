@@ -99,6 +99,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3838-weighted-word-mapping](https://github.com/Kimgyuilli/Algorithm/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/Kimgyuilli/Algorithm/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Kimgyuilli/Algorithm/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3903-smallest-stable-index-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Kimgyuilli/Algorithm/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -463,6 +464,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2574-left-and-right-sum-differences](https://github.com/Kimgyuilli/Algorithm/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Kimgyuilli/Algorithm/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Kimgyuilli/Algorithm/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3903-smallest-stable-index-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3903-smallest-stable-index-i) |
 ## Graph Theory
 |  |
 | ------- |
