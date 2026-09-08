@@ -190,6 +190,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0067-add-binary](https://github.com/Kimgyuilli/Algorithm/tree/master/0067-add-binary) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Kimgyuilli/Algorithm/tree/master/0535-encode-and-decode-tinyurl) |
 | [0709-to-lower-case](https://github.com/Kimgyuilli/Algorithm/tree/master/0709-to-lower-case) |
+| [0761-special-binary-string](https://github.com/Kimgyuilli/Algorithm/tree/master/0761-special-binary-string) |
 | [0771-jewels-and-stones](https://github.com/Kimgyuilli/Algorithm/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/Kimgyuilli/Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Kimgyuilli/Algorithm/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -338,6 +339,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kimgyuilli/Algorithm/tree/master/0088-merge-sorted-array) |
+| [0761-special-binary-string](https://github.com/Kimgyuilli/Algorithm/tree/master/0761-special-binary-string) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Kimgyuilli/Algorithm/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kimgyuilli/Algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -447,6 +449,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0654-maximum-binary-tree) |
+| [0761-special-binary-string](https://github.com/Kimgyuilli/Algorithm/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
