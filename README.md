@@ -63,6 +63,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2367-number-of-arithmetic-triplets](https://github.com/Kimgyuilli/Algorithm/tree/master/2367-number-of-arithmetic-triplets) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Kimgyuilli/Algorithm/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Kimgyuilli/Algorithm/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2392-build-a-matrix-with-conditions](https://github.com/Kimgyuilli/Algorithm/tree/master/2392-build-a-matrix-with-conditions) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Kimgyuilli/Algorithm/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Kimgyuilli/Algorithm/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -483,6 +484,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Kimgyuilli/Algorithm/tree/master/0797-all-paths-from-source-to-target) |
 | [1791-find-center-of-star-graph](https://github.com/Kimgyuilli/Algorithm/tree/master/1791-find-center-of-star-graph) |
+| [2392-build-a-matrix-with-conditions](https://github.com/Kimgyuilli/Algorithm/tree/master/2392-build-a-matrix-with-conditions) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Kimgyuilli/Algorithm/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
 |  |
@@ -493,6 +495,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1476-subrectangle-queries](https://github.com/Kimgyuilli/Algorithm/tree/master/1476-subrectangle-queries) |
 | [1672-richest-customer-wealth](https://github.com/Kimgyuilli/Algorithm/tree/master/1672-richest-customer-wealth) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Kimgyuilli/Algorithm/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2392-build-a-matrix-with-conditions](https://github.com/Kimgyuilli/Algorithm/tree/master/2392-build-a-matrix-with-conditions) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Kimgyuilli/Algorithm/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Kimgyuilli/Algorithm/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Kimgyuilli/Algorithm/tree/master/3446-sort-matrix-by-diagonals) |
@@ -579,8 +582,13 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Kimgyuilli/Algorithm/tree/master/0797-all-paths-from-source-to-target) |
+| [2392-build-a-matrix-with-conditions](https://github.com/Kimgyuilli/Algorithm/tree/master/2392-build-a-matrix-with-conditions) |
 ## Queue
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Kimgyuilli/Algorithm/tree/master/0950-reveal-cards-in-increasing-order) |
+## Topological Sort
+|  |
+| ------- |
+| [2392-build-a-matrix-with-conditions](https://github.com/Kimgyuilli/Algorithm/tree/master/2392-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
