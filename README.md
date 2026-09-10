@@ -503,6 +503,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/Kimgyuilli/Algorithm/tree/master/0052-n-queens-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/Kimgyuilli/Algorithm/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/Kimgyuilli/Algorithm/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Kimgyuilli/Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -591,4 +592,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [2392-build-a-matrix-with-conditions](https://github.com/Kimgyuilli/Algorithm/tree/master/2392-build-a-matrix-with-conditions) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Kimgyuilli/Algorithm/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
