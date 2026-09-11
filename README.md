@@ -153,6 +153,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1486-xor-operation-in-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Kimgyuilli/Algorithm/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Kimgyuilli/Algorithm/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Kimgyuilli/Algorithm/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kimgyuilli/Algorithm/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Kimgyuilli/Algorithm/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
@@ -252,6 +253,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Kimgyuilli/Algorithm/tree/master/0021-merge-two-sorted-lists) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Kimgyuilli/Algorithm/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -288,6 +290,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0980-unique-paths-iii](https://github.com/Kimgyuilli/Algorithm/tree/master/0980-unique-paths-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kimgyuilli/Algorithm/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1486-xor-operation-in-an-array) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Kimgyuilli/Algorithm/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Kimgyuilli/Algorithm/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1720-decode-xored-array) |
 | [1829-maximum-xor-for-each-query](https://github.com/Kimgyuilli/Algorithm/tree/master/1829-maximum-xor-for-each-query) |
@@ -367,11 +370,13 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kimgyuilli/Algorithm/tree/master/0070-climbing-stairs) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Kimgyuilli/Algorithm/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kimgyuilli/Algorithm/tree/master/0070-climbing-stairs) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Kimgyuilli/Algorithm/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Tree
 |  |
 | ------- |
