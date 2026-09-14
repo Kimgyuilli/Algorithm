@@ -1,60 +1,43 @@
 import java.util.*;
 
 class Solution {
-    
+    private int wordLen;
     public int solution(String begin, String target, String[] words) {
+        int listLen = words.length;
+        this.wordLen = target.length();
         
-        if(!Arrays.asList(words).contains(target)) {
-            return 0;
-        }
+        int[] visited = new int[listLen];
+        Queue<Integer> q = new ArrayDeque<>();
         
-        Queue<Node> queue = new LinkedList<>();
-        boolean[] visited = new boolean[words.length];
-        
-        queue.offer(new Node(begin, 0));
-        
-        while(!queue.isEmpty()){
-            Node current = queue.poll();
-            
-            if(current.word.equals(target)){
-                return current.depth;
-            }
-            
-            for(int i = 0; i < words.length; i++){
-                if(!visited[i] && isConnected(words[i], current.word)){
-                    visited[i] = true;
-                    queue.offer(new Node(words[i], current.depth + 1));
-                }
+        for(int i = 0; i < listLen; i++) {
+            if(canMatch(begin, words[i])) {
+                q.offer(i);
+                visited[i] = 1;
             }
         }
         
+        while(!q.isEmpty()) {
+            int cur = q.poll();
+            if(words[cur].equals(target)) return visited[cur];
+            
+            for(int i = 0; i < listLen; i++) {
+                if (visited[i] > 0 || !canMatch(words[cur], words[i])) continue;
+                q.offer(i);
+                visited[i] = visited[cur] + 1;
+            }
+        }
         
         return 0;
     }
     
-    private boolean isConnected(String word1, String word2){
-        int missMatch = 0;
-        
-        for(int i = 0; i < word1.length(); i++){
-            if(word1.charAt(i) != word2.charAt(i)) missMatch += 1;
+    private boolean canMatch(String before, String after) {
+        int count = 0;
+        for(int i = 0; i < wordLen; i++) {
+            if(before.charAt(i) != after.charAt(i)) count++;
+            if(count >= 2) return false;
         }
         
-        if(missMatch == 1){
-            return true;
-        }
-            
-        return false;
-        
-    }
-    
-    static class Node {
-        String word;
-        int depth;
-        
-        Node(String word, int depth){
-            this.word = word;
-            this.depth = depth;
-        }
+        return true;
     }
     
 }
