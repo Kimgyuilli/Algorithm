@@ -1,24 +1,27 @@
 class Solution {
     public int solution(int n, int[] stations, int w) {
-        int answer = 0;
-        int position = 1;
         
+        int cover = w * 2 + 1;
+        int start = 1;
+        
+        int answer = 0;
+
         for(int station : stations) {
-            int left = station - w;
+            int startCover = station - w;
             
-            if(left > position) {
-                int gap = left - position;
-                answer += (gap + (w * 2)) / (w * 2 + 1);
+            int gap = startCover - start;
+            
+            if(gap > 0) {
+                answer += (gap + cover - 1) / cover;
             }
             
-            position = station + w + 1;
+            start = station + w + 1;
         }
         
-        if(position <= n) {
-            int gap = n - position + 1;
-            answer += (gap + (w * 2)) / (w * 2 + 1);
+        if(start <= n) {
+            int gap = n - start + 1;
+            answer += (gap + cover - 1) / cover;
         }
-        
 
         return answer;
     }
