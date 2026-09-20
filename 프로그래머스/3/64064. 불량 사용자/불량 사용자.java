@@ -1,18 +1,27 @@
 import java.util.*;
 
 class Solution {
-    Set<String> result = new HashSet<>();
-    boolean[] visited;
+    private Set<String> result;
+    private boolean[] visited;
+    private String[] user_id;
+    private String[] banned_id;
+    private int userLen;
+    private int banLen;
     public int solution(String[] user_id, String[] banned_id) {
-        visited = new boolean[user_id.length];
+        this.result = new HashSet<>();
+        this.user_id = user_id;
+        this.banned_id = banned_id;
+        this.userLen = user_id.length;
+        this.banLen = banned_id.length;
+        visited = new boolean[userLen];
         
-        dfs(user_id, banned_id, 0);
+        DFS(0);
         
         return result.size();
     }
     
-    private void dfs(String[] user_id, String[] banned_id, int depth) {
-        if(depth == banned_id.length) {
+    private void DFS(int depth) {
+        if(depth == banLen) {
             StringBuilder sb = new StringBuilder();
             for(int i = 0; i < visited.length; i++) {
                 if(visited[i]) sb.append(i);
@@ -20,22 +29,22 @@ class Solution {
             result.add(sb.toString());
             return;
         }
-        for(int i = 0; i < user_id.length; i++) {
+        for(int i = 0; i < userLen; i++) {
             if(!visited[i] && isMatch(user_id[i], banned_id[depth])) {
                 visited[i] = true;
-                dfs(user_id, banned_id, depth + 1);
+                DFS(depth + 1);
                 visited[i] = false;
             }
         }
     }
-    private boolean isMatch(String a, String b) {
-        if(a.length() != b.length()) return false;
-        for(int i = 0; i < a.length(); i++) {
+    
+    private boolean isMatch(String u, String b) {
+        int len = u.length();
+        if(len != b.length()) return false;
+        for(int i = 0; i < len; i++) {
             if(b.charAt(i) == '*') continue;
-            if(a.charAt(i) != b.charAt(i)) return false;
+            if(b.charAt(i) != u.charAt(i)) return false;
         }
-        
         return true;
     }
-    
 }
