@@ -1,10 +1,10 @@
 import java.util.*;
 
 class Solution {
-    int[] parent;
+    private int[] parent;
     public int solution(int n, int[][] costs) {
         
-        parent = new int[n];
+        this.parent = new int[n];
         
         for(int i = 0; i < n; i++) {
             parent[i] = i;
@@ -15,30 +15,25 @@ class Solution {
         });
         
         int answer = 0;
-        
-        for(int[] edge : costs) {
-            int from = edge[0];
-            int to = edge[1];
-            int cost = edge[2];
+        for(int[] cost : costs) {
+            int a = cost[0];
+            int b = cost[1];
             
-            if(find(from) != find(to)) {
-                union(from, to);
-                answer += cost;
-            }
+            if(find(a) == find(b)) continue;
+            answer += cost[2];
+            union(a, b);
         }
-        
         return answer;
     }
     
-    public int find(int node) {
-        if(parent[node] == node) return node;
-        return parent[node] = find(parent[node]);
+    private void union(int a, int b) {
+        a = find(a);
+        b = find(b);
+        parent[a] = b;
     }
     
-    public void union(int a, int b) {
-        int rootA = find(a);
-        int rootB = find(b);
-        
-        parent[rootB] = rootA;
+    private int find(int num) {
+        if(num == parent[num]) return num;
+        return parent[num] = find(parent[num]);
     }
 }
