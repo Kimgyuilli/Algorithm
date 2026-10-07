@@ -1,21 +1,18 @@
 class Solution {
     boolean solution(String s) {
+        
         int count = 0;
-
-        for(int i = 0; i < s.length(); i++){
-            if(s.charAt(i) == '('){
+        
+        for(char c : s.toCharArray()) {
+            if(c == '(') {
                 count++;
+                continue;
             }
             
-            if(s.charAt(i) == ')'){
-                if(count == 0){
-                    return false;
-                }
-                else{
-                    count--;
-                }
-            }
+            count--;
+            if(count < 0) return false;
         }
+        
 
         return count == 0;
     }
