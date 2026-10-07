@@ -1,20 +1,29 @@
-import java.util.*;
-
 class Solution {
     public String solution(String s) {
-        StringBuilder answer = new StringBuilder(s.length());
-        boolean isWordStart = true;
         
-        for (char c : s.toCharArray()) {
-            if (c == ' '){
-                answer.append(c);
-                isWordStart = true;
-            } else{
-                answer.append(isWordStart ? Character.toUpperCase(c) : Character.toLowerCase(c));
-                isWordStart = false;
+        boolean isFirst = true;
+        s = s.toLowerCase();
+        
+        StringBuilder sb = new StringBuilder();
+        
+        for(int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+            
+            if(c == ' ') {
+                sb.append(c);
+                isFirst = true;
+                continue;
+            } 
+            
+            if(isFirst && c >= 'a' && c <= 'z') {
+                sb.append((char) (c - 32));
+            } else {
+                sb.append(c);
             }
+            isFirst = false;
         }
         
-        return answer.toString();
+        
+        return sb.toString();
     }
 }
