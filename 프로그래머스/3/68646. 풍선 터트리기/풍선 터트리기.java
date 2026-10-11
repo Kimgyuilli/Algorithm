@@ -1,30 +1,25 @@
 class Solution {
     public int solution(int[] a) {
-        if (a.length <= 2) return a.length;
-
-        int n = a.length;
-        int[] leftMin = new int[n];
-        int[] rightMin = new int[n];
-
-        int min = a[0];
-        for (int i = 0; i < n; i++) {
-            if (a[i] < min) min = a[i];
-            leftMin[i] = min;
+        
+        int len = a.length;
+        int[] leftMin = new int[len];
+        int[] rightMin = new int[len];
+    
+        leftMin[0] = a[0];    
+        for(int i = 1; i < len; i++) {
+            leftMin[i] = Math.min(leftMin[i - 1], a[i]);
         }
-
-        min = a[n - 1];
-        for (int i = n - 1; i >= 0; i--) {
-            if (a[i] < min) min = a[i];
-            rightMin[i] = min;
+        
+        rightMin[len - 1] = a[len - 1];    
+        for(int i = len - 2; i >= 0; i--) {
+            rightMin[i] = Math.min(rightMin[i + 1], a[i]);
         }
-
+                
         int answer = 0;
-        for (int i = 0; i < n; i++) {
-            if (a[i] <= leftMin[i] || a[i] <= rightMin[i]) {
-                answer++;
-            }
+        for(int i = 0; i < len; i++) {
+            if(rightMin[i] == a[i] || leftMin[i] == a[i]) answer++;
         }
-
+        
         return answer;
     }
 }
