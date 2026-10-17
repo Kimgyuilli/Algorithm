@@ -76,6 +76,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2798-number-of-employees-who-met-the-target](https://github.com/Kimgyuilli/Algorithm/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kimgyuilli/Algorithm/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Kimgyuilli/Algorithm/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kimgyuilli/Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/Kimgyuilli/Algorithm/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Kimgyuilli/Algorithm/tree/master/2974-minimum-number-game) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Kimgyuilli/Algorithm/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -127,6 +128,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2367-number-of-arithmetic-triplets](https://github.com/Kimgyuilli/Algorithm/tree/master/2367-number-of-arithmetic-triplets) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Kimgyuilli/Algorithm/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kimgyuilli/Algorithm/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kimgyuilli/Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Kimgyuilli/Algorithm/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Kimgyuilli/Algorithm/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -577,6 +579,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Kimgyuilli/Algorithm/tree/master/1409-queries-on-a-permutation-with-key) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kimgyuilli/Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sqrt Decomposition
 |  |
 | ------- |
@@ -606,4 +609,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Kimgyuilli/Algorithm/tree/master/0052-n-queens-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kimgyuilli/Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
