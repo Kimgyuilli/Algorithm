@@ -103,6 +103,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3701-compute-alternating-sum](https://github.com/Kimgyuilli/Algorithm/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Kimgyuilli/Algorithm/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/Kimgyuilli/Algorithm/tree/master/3838-weighted-word-mapping) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Kimgyuilli/Algorithm/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Kimgyuilli/Algorithm/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3903-smallest-stable-index-i) |
@@ -183,6 +184,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3783-mirror-distance-of-an-integer](https://github.com/Kimgyuilli/Algorithm/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Kimgyuilli/Algorithm/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Kimgyuilli/Algorithm/tree/master/3871-count-commas-in-range-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Kimgyuilli/Algorithm/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/Kimgyuilli/Algorithm/tree/master/3945-digit-frequency-score) |
 ## String
