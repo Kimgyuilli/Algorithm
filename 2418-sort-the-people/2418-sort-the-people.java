@@ -1,37 +1,23 @@
 class Solution {
-
-    private class People implements Comparable<People>{
-        String name;
-        int height;
-
-        People(String name, int height) {
-            this.name = name;
-            this.height = height;
-        }
-
-        @Override
-        public int compareTo(People p) {
-            return Integer.compare(this.height, p.height);
-        }
-    }
-
     public String[] sortPeople(String[] names, int[] heights) {
 
         int len = names.length;
         
-        List<People> li = new ArrayList<>();
+        Map<Integer, Integer> map = new HashMap<>();
 
-        for(int i = 0; i < len; i++) {
-            li.add(new People(names[i], heights[i]));
+        int i = 0;
+        for(int h : heights) {
+            map.put(h, i++);
         }
 
-        li.sort(Collections.reverseOrder());
+        Arrays.sort(heights);
 
+        String[] answer = new String[len];
 
-        for(int i = 0; i < len; i++) {
-            names[i] = li.get(i).name;
+        for(int n = 0; n < len; n++) {
+            answer[len - 1 - n] = names[map.get(heights[n])];
         }
 
-        return names;
+        return answer;
     }
 }
