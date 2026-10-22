@@ -37,6 +37,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1528-shuffle-string](https://github.com/Kimgyuilli/Algorithm/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/Kimgyuilli/Algorithm/tree/master/1534-count-good-triplets) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Kimgyuilli/Algorithm/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1572-matrix-diagonal-sum](https://github.com/Kimgyuilli/Algorithm/tree/master/1572-matrix-diagonal-sum) |
 | [1630-arithmetic-subarrays](https://github.com/Kimgyuilli/Algorithm/tree/master/1630-arithmetic-subarrays) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Kimgyuilli/Algorithm/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kimgyuilli/Algorithm/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -512,6 +513,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0885-spiral-matrix-iii](https://github.com/Kimgyuilli/Algorithm/tree/master/0885-spiral-matrix-iii) |
 | [0980-unique-paths-iii](https://github.com/Kimgyuilli/Algorithm/tree/master/0980-unique-paths-iii) |
 | [1476-subrectangle-queries](https://github.com/Kimgyuilli/Algorithm/tree/master/1476-subrectangle-queries) |
+| [1572-matrix-diagonal-sum](https://github.com/Kimgyuilli/Algorithm/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Kimgyuilli/Algorithm/tree/master/1672-richest-customer-wealth) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Kimgyuilli/Algorithm/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Kimgyuilli/Algorithm/tree/master/2392-build-a-matrix-with-conditions) |
