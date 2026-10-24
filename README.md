@@ -98,6 +98,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3446-sort-matrix-by-diagonals](https://github.com/Kimgyuilli/Algorithm/tree/master/3446-sort-matrix-by-diagonals) |
 | [3467-transform-array-by-parity](https://github.com/Kimgyuilli/Algorithm/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kimgyuilli/Algorithm/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kimgyuilli/Algorithm/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kimgyuilli/Algorithm/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3668-restore-finishing-order](https://github.com/Kimgyuilli/Algorithm/tree/master/3668-restore-finishing-order) |
@@ -184,6 +185,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Kimgyuilli/Algorithm/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kimgyuilli/Algorithm/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Kimgyuilli/Algorithm/tree/master/3516-find-closest-person) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kimgyuilli/Algorithm/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kimgyuilli/Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Kimgyuilli/Algorithm/tree/master/3783-mirror-distance-of-an-integer) |
