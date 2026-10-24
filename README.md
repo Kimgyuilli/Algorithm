@@ -157,6 +157,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0836-rectangle-overlap](https://github.com/Kimgyuilli/Algorithm/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Kimgyuilli/Algorithm/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kimgyuilli/Algorithm/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1323-maximum-69-number](https://github.com/Kimgyuilli/Algorithm/tree/master/1323-maximum-69-number) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kimgyuilli/Algorithm/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Kimgyuilli/Algorithm/tree/master/1512-number-of-good-pairs) |
@@ -343,6 +344,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Kimgyuilli/Algorithm/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Kimgyuilli/Algorithm/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Kimgyuilli/Algorithm/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1323-maximum-69-number](https://github.com/Kimgyuilli/Algorithm/tree/master/1323-maximum-69-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/1382-balance-a-binary-search-tree) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Kimgyuilli/Algorithm/tree/master/1561-maximum-number-of-coins-you-can-get) |
