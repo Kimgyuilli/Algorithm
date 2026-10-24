@@ -30,6 +30,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kimgyuilli/Algorithm/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kimgyuilli/Algorithm/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1476-subrectangle-queries](https://github.com/Kimgyuilli/Algorithm/tree/master/1476-subrectangle-queries) |
 | [1480-running-sum-of-1d-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Kimgyuilli/Algorithm/tree/master/1512-number-of-good-pairs) |
@@ -253,6 +254,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0654-maximum-binary-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0654-maximum-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kimgyuilli/Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Kimgyuilli/Algorithm/tree/master/1021-remove-outermost-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kimgyuilli/Algorithm/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kimgyuilli/Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Kimgyuilli/Algorithm/tree/master/2000-reverse-prefix-of-word) |
@@ -585,6 +587,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0654-maximum-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kimgyuilli/Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kimgyuilli/Algorithm/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Cartesian Tree
 |  |
