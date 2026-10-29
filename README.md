@@ -23,6 +23,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1266-minimum-time-visiting-all-points](https://github.com/Kimgyuilli/Algorithm/tree/master/1266-minimum-time-visiting-all-points) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Kimgyuilli/Algorithm/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Kimgyuilli/Algorithm/tree/master/1313-decompress-run-length-encoded-list) |
+| [1329-sort-the-matrix-diagonally](https://github.com/Kimgyuilli/Algorithm/tree/master/1329-sort-the-matrix-diagonally) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kimgyuilli/Algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kimgyuilli/Algorithm/tree/master/1389-create-target-array-in-the-given-order) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Kimgyuilli/Algorithm/tree/master/1409-queries-on-a-permutation-with-key) |
@@ -376,6 +377,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0088-merge-sorted-array](https://github.com/Kimgyuilli/Algorithm/tree/master/0088-merge-sorted-array) |
 | [0761-special-binary-string](https://github.com/Kimgyuilli/Algorithm/tree/master/0761-special-binary-string) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Kimgyuilli/Algorithm/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1329-sort-the-matrix-diagonally](https://github.com/Kimgyuilli/Algorithm/tree/master/1329-sort-the-matrix-diagonally) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kimgyuilli/Algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Kimgyuilli/Algorithm/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -533,6 +535,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Kimgyuilli/Algorithm/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0885-spiral-matrix-iii](https://github.com/Kimgyuilli/Algorithm/tree/master/0885-spiral-matrix-iii) |
 | [0980-unique-paths-iii](https://github.com/Kimgyuilli/Algorithm/tree/master/0980-unique-paths-iii) |
+| [1329-sort-the-matrix-diagonally](https://github.com/Kimgyuilli/Algorithm/tree/master/1329-sort-the-matrix-diagonally) |
 | [1476-subrectangle-queries](https://github.com/Kimgyuilli/Algorithm/tree/master/1476-subrectangle-queries) |
 | [1572-matrix-diagonal-sum](https://github.com/Kimgyuilli/Algorithm/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Kimgyuilli/Algorithm/tree/master/1672-richest-customer-wealth) |
