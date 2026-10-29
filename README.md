@@ -233,6 +233,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kimgyuilli/Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Kimgyuilli/Algorithm/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Kimgyuilli/Algorithm/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Kimgyuilli/Algorithm/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2325-decode-the-message](https://github.com/Kimgyuilli/Algorithm/tree/master/2325-decode-the-message) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Kimgyuilli/Algorithm/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Kimgyuilli/Algorithm/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
