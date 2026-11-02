@@ -409,6 +409,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0070-climbing-stairs](https://github.com/Kimgyuilli/Algorithm/tree/master/0070-climbing-stairs) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Kimgyuilli/Algorithm/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1931-painting-a-grid-with-three-different-colors](https://github.com/Kimgyuilli/Algorithm/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
@@ -659,4 +660,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/Kimgyuilli/Algorithm/tree/master/1859-sorting-the-sentence) |
+## Graph Coloring
+|  |
+| ------- |
+| [1931-painting-a-grid-with-three-different-colors](https://github.com/Kimgyuilli/Algorithm/tree/master/1931-painting-a-grid-with-three-different-colors) |
 <!---LeetCode Topics End-->
