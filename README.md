@@ -276,6 +276,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Kimgyuilli/Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kimgyuilli/Algorithm/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [1669-merge-in-between-linked-lists](https://github.com/Kimgyuilli/Algorithm/tree/master/1669-merge-in-between-linked-lists) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Kimgyuilli/Algorithm/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Kimgyuilli/Algorithm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
