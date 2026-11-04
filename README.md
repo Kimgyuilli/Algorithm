@@ -11,6 +11,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kimgyuilli/Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kimgyuilli/Algorithm/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Kimgyuilli/Algorithm/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/Kimgyuilli/Algorithm/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Kimgyuilli/Algorithm/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Kimgyuilli/Algorithm/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -571,6 +572,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Kimgyuilli/Algorithm/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Kimgyuilli/Algorithm/tree/master/0052-n-queens-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/Kimgyuilli/Algorithm/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/Kimgyuilli/Algorithm/tree/master/0980-unique-paths-iii) |
@@ -667,6 +669,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Algorithm X
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Kimgyuilli/Algorithm/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Kimgyuilli/Algorithm/tree/master/0052-n-queens-ii) |
 ## Segment Tree
 |  |
