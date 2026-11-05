@@ -91,6 +91,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Kimgyuilli/Algorithm/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kimgyuilli/Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/Kimgyuilli/Algorithm/tree/master/2942-find-words-containing-character) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Kimgyuilli/Algorithm/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/Kimgyuilli/Algorithm/tree/master/2974-minimum-number-game) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Kimgyuilli/Algorithm/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -147,6 +148,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Kimgyuilli/Algorithm/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kimgyuilli/Algorithm/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kimgyuilli/Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Kimgyuilli/Algorithm/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kimgyuilli/Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Kimgyuilli/Algorithm/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3162-find-the-number-of-good-pairs-i) |
