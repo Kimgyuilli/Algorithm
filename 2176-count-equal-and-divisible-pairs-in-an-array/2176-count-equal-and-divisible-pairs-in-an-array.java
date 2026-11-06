@@ -5,7 +5,7 @@ class Solution {
 
         for(int i = 0; i < len; i++) {
             for(int j = i + 1; j < len; j++) {
-                if(i == j || (i * j) % k != 0 || nums[i] != nums[j]) continue;
+                if((i * j) % k != 0 || nums[i] != nums[j]) continue;
 
                 answer++;
             }
