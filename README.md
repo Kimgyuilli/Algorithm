@@ -252,6 +252,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2375-construct-smallest-number-from-di-string](https://github.com/Kimgyuilli/Algorithm/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Kimgyuilli/Algorithm/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2418-sort-the-people](https://github.com/Kimgyuilli/Algorithm/tree/master/2418-sort-the-people) |
+| [2785-sort-vowels-in-a-string](https://github.com/Kimgyuilli/Algorithm/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/Kimgyuilli/Algorithm/tree/master/2942-find-words-containing-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kimgyuilli/Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3110-score-of-a-string](https://github.com/Kimgyuilli/Algorithm/tree/master/3110-score-of-a-string) |
@@ -413,6 +414,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kimgyuilli/Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/Kimgyuilli/Algorithm/tree/master/2418-sort-the-people) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Kimgyuilli/Algorithm/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2785-sort-vowels-in-a-string](https://github.com/Kimgyuilli/Algorithm/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kimgyuilli/Algorithm/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Kimgyuilli/Algorithm/tree/master/2974-minimum-number-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kimgyuilli/Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
