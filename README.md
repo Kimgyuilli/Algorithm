@@ -191,6 +191,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2235-add-two-integers](https://github.com/Kimgyuilli/Algorithm/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Kimgyuilli/Algorithm/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Kimgyuilli/Algorithm/tree/master/2469-convert-the-temperature) |
+| [2485-find-the-pivot-integer](https://github.com/Kimgyuilli/Algorithm/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Kimgyuilli/Algorithm/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Kimgyuilli/Algorithm/tree/master/2652-sum-multiples) |
@@ -555,6 +556,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kimgyuilli/Algorithm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1829-maximum-xor-for-each-query](https://github.com/Kimgyuilli/Algorithm/tree/master/1829-maximum-xor-for-each-query) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Kimgyuilli/Algorithm/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2485-find-the-pivot-integer](https://github.com/Kimgyuilli/Algorithm/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Kimgyuilli/Algorithm/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Kimgyuilli/Algorithm/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Kimgyuilli/Algorithm/tree/master/3432-count-partitions-with-even-sum-difference) |
