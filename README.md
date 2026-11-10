@@ -215,6 +215,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kimgyuilli/Algorithm/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Kimgyuilli/Algorithm/tree/master/3783-mirror-distance-of-an-integer) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Kimgyuilli/Algorithm/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3870-count-commas-in-range](https://github.com/Kimgyuilli/Algorithm/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Kimgyuilli/Algorithm/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
@@ -449,6 +450,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1872-stone-game-viii](https://github.com/Kimgyuilli/Algorithm/tree/master/1872-stone-game-viii) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/Kimgyuilli/Algorithm/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Kimgyuilli/Algorithm/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Memoization
 |  |
 | ------- |
