@@ -61,6 +61,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1822-sign-of-the-product-of-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Kimgyuilli/Algorithm/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1829-maximum-xor-for-each-query](https://github.com/Kimgyuilli/Algorithm/tree/master/1829-maximum-xor-for-each-query) |
+| [1861-rotating-the-box](https://github.com/Kimgyuilli/Algorithm/tree/master/1861-rotating-the-box) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Kimgyuilli/Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/Kimgyuilli/Algorithm/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -325,6 +326,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0202-happy-number](https://github.com/Kimgyuilli/Algorithm/tree/master/0202-happy-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kimgyuilli/Algorithm/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/Kimgyuilli/Algorithm/tree/master/0832-flipping-an-image) |
+| [1861-rotating-the-box](https://github.com/Kimgyuilli/Algorithm/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Kimgyuilli/Algorithm/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Kimgyuilli/Algorithm/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -605,6 +607,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1476-subrectangle-queries](https://github.com/Kimgyuilli/Algorithm/tree/master/1476-subrectangle-queries) |
 | [1572-matrix-diagonal-sum](https://github.com/Kimgyuilli/Algorithm/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Kimgyuilli/Algorithm/tree/master/1672-richest-customer-wealth) |
+| [1861-rotating-the-box](https://github.com/Kimgyuilli/Algorithm/tree/master/1861-rotating-the-box) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Kimgyuilli/Algorithm/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Kimgyuilli/Algorithm/tree/master/2392-build-a-matrix-with-conditions) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Kimgyuilli/Algorithm/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
