@@ -67,6 +67,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1920-build-array-from-permutation](https://github.com/Kimgyuilli/Algorithm/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kimgyuilli/Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kimgyuilli/Algorithm/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kimgyuilli/Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kimgyuilli/Algorithm/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -196,6 +197,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Kimgyuilli/Algorithm/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Kimgyuilli/Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/Kimgyuilli/Algorithm/tree/master/1872-stone-game-viii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Kimgyuilli/Algorithm/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Kimgyuilli/Algorithm/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Kimgyuilli/Algorithm/tree/master/2469-convert-the-temperature) |
@@ -641,6 +643,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Kimgyuilli/Algorithm/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Kimgyuilli/Algorithm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kimgyuilli/Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -748,4 +751,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0773-sliding-puzzle](https://github.com/Kimgyuilli/Algorithm/tree/master/0773-sliding-puzzle) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
