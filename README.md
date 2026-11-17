@@ -11,6 +11,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kimgyuilli/Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kimgyuilli/Algorithm/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Kimgyuilli/Algorithm/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Kimgyuilli/Algorithm/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Kimgyuilli/Algorithm/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Kimgyuilli/Algorithm/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Kimgyuilli/Algorithm/tree/master/0078-subsets) |
@@ -620,6 +621,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Kimgyuilli/Algorithm/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Kimgyuilli/Algorithm/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Kimgyuilli/Algorithm/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Kimgyuilli/Algorithm/tree/master/0078-subsets) |
