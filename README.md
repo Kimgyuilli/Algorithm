@@ -478,6 +478,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0654-maximum-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Kimgyuilli/Algorithm/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kimgyuilli/Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Kimgyuilli/Algorithm/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -516,6 +517,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0654-maximum-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Kimgyuilli/Algorithm/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kimgyuilli/Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Kimgyuilli/Algorithm/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -560,6 +562,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Kimgyuilli/Algorithm/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kimgyuilli/Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Kimgyuilli/Algorithm/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
