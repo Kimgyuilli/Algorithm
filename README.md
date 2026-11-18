@@ -252,6 +252,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1108-defanging-an-ip-address](https://github.com/Kimgyuilli/Algorithm/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Kimgyuilli/Algorithm/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Kimgyuilli/Algorithm/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Kimgyuilli/Algorithm/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Kimgyuilli/Algorithm/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/Kimgyuilli/Algorithm/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kimgyuilli/Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -461,6 +462,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kimgyuilli/Algorithm/tree/master/0070-climbing-stairs) |
 | [0773-sliding-puzzle](https://github.com/Kimgyuilli/Algorithm/tree/master/0773-sliding-puzzle) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Kimgyuilli/Algorithm/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1340-jump-game-v](https://github.com/Kimgyuilli/Algorithm/tree/master/1340-jump-game-v) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Kimgyuilli/Algorithm/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
