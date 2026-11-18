@@ -66,6 +66,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Kimgyuilli/Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/Kimgyuilli/Algorithm/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Kimgyuilli/Algorithm/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Kimgyuilli/Algorithm/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kimgyuilli/Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -438,6 +439,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Kimgyuilli/Algorithm/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1859-sorting-the-sentence](https://github.com/Kimgyuilli/Algorithm/tree/master/1859-sorting-the-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Kimgyuilli/Algorithm/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2126-destroying-asteroids](https://github.com/Kimgyuilli/Algorithm/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kimgyuilli/Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/Kimgyuilli/Algorithm/tree/master/2418-sort-the-people) |
@@ -767,4 +769,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Kimgyuilli/Algorithm/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
