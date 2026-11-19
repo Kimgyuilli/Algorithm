@@ -103,6 +103,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kimgyuilli/Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/Kimgyuilli/Algorithm/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Kimgyuilli/Algorithm/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/Kimgyuilli/Algorithm/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/Kimgyuilli/Algorithm/tree/master/2974-minimum-number-game) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Kimgyuilli/Algorithm/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -164,6 +165,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kimgyuilli/Algorithm/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kimgyuilli/Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Kimgyuilli/Algorithm/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/Kimgyuilli/Algorithm/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kimgyuilli/Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Kimgyuilli/Algorithm/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -211,6 +213,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2769-find-the-maximum-achievable-number](https://github.com/Kimgyuilli/Algorithm/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Kimgyuilli/Algorithm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Kimgyuilli/Algorithm/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2965-find-missing-and-repeated-values](https://github.com/Kimgyuilli/Algorithm/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/Kimgyuilli/Algorithm/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kimgyuilli/Algorithm/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -622,6 +625,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2392-build-a-matrix-with-conditions](https://github.com/Kimgyuilli/Algorithm/tree/master/2392-build-a-matrix-with-conditions) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Kimgyuilli/Algorithm/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Kimgyuilli/Algorithm/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2965-find-missing-and-repeated-values](https://github.com/Kimgyuilli/Algorithm/tree/master/2965-find-missing-and-repeated-values) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Kimgyuilli/Algorithm/tree/master/3446-sort-matrix-by-diagonals) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Kimgyuilli/Algorithm/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Backtracking
