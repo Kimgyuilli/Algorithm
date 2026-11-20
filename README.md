@@ -60,6 +60,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kimgyuilli/Algorithm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/Kimgyuilli/Algorithm/tree/master/1773-count-items-matching-a-rule) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Kimgyuilli/Algorithm/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Kimgyuilli/Algorithm/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1829-maximum-xor-for-each-query](https://github.com/Kimgyuilli/Algorithm/tree/master/1829-maximum-xor-for-each-query) |
 | [1861-rotating-the-box](https://github.com/Kimgyuilli/Algorithm/tree/master/1861-rotating-the-box) |
@@ -200,6 +201,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Kimgyuilli/Algorithm/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kimgyuilli/Algorithm/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Kimgyuilli/Algorithm/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Kimgyuilli/Algorithm/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Kimgyuilli/Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/Kimgyuilli/Algorithm/tree/master/1872-stone-game-viii) |
@@ -326,6 +328,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Kimgyuilli/Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Kimgyuilli/Algorithm/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Kimgyuilli/Algorithm/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -395,6 +398,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1409-queries-on-a-permutation-with-key](https://github.com/Kimgyuilli/Algorithm/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1603-design-parking-system](https://github.com/Kimgyuilli/Algorithm/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kimgyuilli/Algorithm/tree/master/1688-count-of-matches-in-tournament) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Kimgyuilli/Algorithm/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/Kimgyuilli/Algorithm/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kimgyuilli/Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -733,6 +737,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Kimgyuilli/Algorithm/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Kimgyuilli/Algorithm/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Topological Sort
 |  |
 | ------- |
