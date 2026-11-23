@@ -110,6 +110,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Kimgyuilli/Algorithm/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Kimgyuilli/Algorithm/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kimgyuilli/Algorithm/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Kimgyuilli/Algorithm/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
