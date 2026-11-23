@@ -277,6 +277,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kimgyuilli/Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Kimgyuilli/Algorithm/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Kimgyuilli/Algorithm/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Kimgyuilli/Algorithm/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Kimgyuilli/Algorithm/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Kimgyuilli/Algorithm/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2315-count-asterisks](https://github.com/Kimgyuilli/Algorithm/tree/master/2315-count-asterisks) |
@@ -403,6 +404,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1920-build-array-from-permutation](https://github.com/Kimgyuilli/Algorithm/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Kimgyuilli/Algorithm/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kimgyuilli/Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Kimgyuilli/Algorithm/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kimgyuilli/Algorithm/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kimgyuilli/Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Kimgyuilli/Algorithm/tree/master/2181-merge-nodes-in-between-zeros) |
